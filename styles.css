@@ -2,8 +2,9 @@
 /* Your CSS Code here. */
 #btn{
 	background-color: Black;
-	color:white;
+		color:white;
 	border-radius:5px;
+	border- width:none
 }
 #btn:hover{
 	background-color:yellow;
